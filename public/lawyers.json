@@ -1,0 +1,77 @@
+{
+    "lawyers": [
+      {
+        "id": 1,
+        "first_name": "أحمد",
+        "last_name": "خالد",
+        "full_name": "أحمد خالد",
+        "job_title": "مستشار قانوني",
+        "reviews": {
+          "rating": 4.56,
+          "total_reviews": 35
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      },
+      {
+        "id": 2,
+        "first_name": "محمد",
+        "last_name": "علي",
+        "full_name": "محمد علي",
+        "job_title": "محامي استئناف",
+        "reviews": {
+          "rating": 4.2,
+          "total_reviews": 28
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      },
+      {
+        "id": 3,
+        "first_name": "سارة",
+        "last_name": "أحمد",
+        "full_name": "سارة أحمد",
+        "job_title": "محامية مدنية",
+        "reviews": {
+          "rating": 4.75,
+          "total_reviews": 42
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      },
+      {
+        "id": 4,
+        "first_name": "يوسف",
+        "last_name": "محمود",
+        "full_name": "يوسف محمود",
+        "job_title": "محامي جنائي",
+        "reviews": {
+          "rating": 4.9,
+          "total_reviews": 51
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      },
+      {
+        "id": 5,
+        "first_name": "ليلى",
+        "last_name": "مصطفى",
+        "full_name": "ليلى مصطفى",
+        "job_title": "مستشارة قانونية",
+        "reviews": {
+          "rating": 4.6,
+          "total_reviews": 38
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      },
+      {
+        "id": 6,
+        "first_name": "أحمد",
+        "last_name": "عبدالله",
+        "full_name": "أحمد عبدالله",
+        "job_title": "محامي عقارات",
+        "reviews": {
+          "rating": 4.3,
+          "total_reviews": 30
+        },
+        "image_url": "https://res.cloudinary.com/dmakszkza/image/upload/v1713387789/Portfolio%20Alarab/download_jvj5ap.png"
+      }
+    ]
+  }
+  
